@@ -1,0 +1,6 @@
+path: /home/dataset
+train: images/train 
+val: images/val  
+
+nc: 5
+names: ['conn_a', 'root', 'box', 'bag_a', 'bag_b']

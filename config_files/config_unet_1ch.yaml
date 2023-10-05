@@ -1,0 +1,9 @@
+epoch: 300
+batch_size: 10
+dataset: /home/dataset
+img_h: 512
+img_w: 768
+input_classes: 6
+input_channels: 1
+patience: 40
+learning_rate: 0.0003

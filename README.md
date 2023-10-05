@@ -14,7 +14,7 @@ Example outputs:
 - RGB data augmentation 
 - RGBD data augmentation as new method segmentation for RGBD data
 - teaching YOLOv8 on RGB data
-- teaching YOLOv8 on RGBD data
+- teaching YOLOv8 on RGBD data (modified source code: https://github.com/joannawalowska/ultralytics_RGBD)
 - Unet teaching on RGB data
 - Unet learning on depth data
 - inference for single images 
